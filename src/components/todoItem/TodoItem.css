@@ -1,0 +1,9 @@
+.btnStyle{
+  background: '#e84545';
+    color: 'white';
+    padding: '5px 9px';
+    border: 'none';
+    border-radius: '50px';
+    cursor: 'pointer';
+    float: 'right';
+}
